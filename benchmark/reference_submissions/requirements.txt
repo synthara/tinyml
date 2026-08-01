@@ -52,7 +52,7 @@ pillow==10.4.0
 prettytable==0.7.2
 protobuf==3.5.2.post1
 psutil==5.6.6
-pyasn1==0.2.3
+pyasn1==0.6.4
 pycparser==2.22
 pycryptodome==3.23.0
 pyelftools==0.29
